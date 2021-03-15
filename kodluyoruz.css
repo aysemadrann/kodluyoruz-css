@@ -1,0 +1,23 @@
+.text-red{
+    color: red;
+}
+.center{
+    text-align: center;
+}
+.list-none{
+    list-style-type: none; /* lilerin önündeki ifadeyi kaldırdık.*/
+}
+
+.list-inside{
+    list-style-position: inside; /* lilerin önündeki ifadeyi yazımızla birlikte taşıdık.*/
+}
+
+
+.li-inline{
+    display: inline;  /* lileri yanyana getirdik*/
+    margin-right: 20px;
+}
+
+.height{
+    height: 400px;
+}
